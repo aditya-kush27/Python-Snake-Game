@@ -1,9 +1,7 @@
 # 🐍 Python Snake Game
-
 A simple Snake Game developed using Python and Pygame.
 
 ## Features
-
 * Classic Snake gameplay
 * Arrow-key controls
 * Random food generation
@@ -12,13 +10,11 @@ A simple Snake Game developed using Python and Pygame.
 * Restart and quit options
 
 ## Technologies Used
-
 * Python
 * Pygame
 * Random module
 
 ## How to Run
-
 Install Pygame:
 
 ```bash
